@@ -1,5 +1,5 @@
 # **Tooth Growth Analysis: Statistical Report**  
-**Investigating Vitamin C Effects on Guinea Pig Tooth Length**  
+This project investigates the impact of Vitamin C dosage (0.5, 1, 2 mg/day) and supplement type (Orange Juice vs. Ascorbic Acid) on mice tooth growth using R. Through two-way ANOVA and Tukey HSD tests, it reveals significant dose-dependent effects and superior performance of Orange Juice at lower doses. The analysis includes statistical validation, visualization, and reproducible code for full transparency.
 
 # **Table of Contents**  
 1. [Project Overview](#project-overview)  
